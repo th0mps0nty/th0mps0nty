@@ -14,6 +14,7 @@ I build the agents, automations, and tools that take painful, manual business wo
 - **☁️ Full-stack** — Cloudflare (Workers · Pages · D1 · R2), TypeScript/Node, Python, Astro — end to end, from API + Stripe to a deployed site.
 - **📱 Mobile** — Flutter / Dart apps.
 - **🚀 Founder, [Access Assured](https://accessassured.co)** — a digital-product business (assessment → Stripe catalog → automated fulfillment) I built and run end to end.
+- - **🚀 Founder, [Tetrad Systems](https://tetrad.systems)** — Practical AI operations systems for local service businesses: lead recovery, private office knowledge, owner-visible queues, and monitored automations with human approval gates. I built and run end to end.
 
 ### Selected work
 
