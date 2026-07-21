@@ -30,4 +30,4 @@ I build the agents, automations, and tools that take painful, manual business wo
 
 💬 **Need a workflow automated, an agent built, or a full-stack / mobile product shipped?**
 
-📫 **web.duder@gmail.com**  ·  🌐 **[accessassured.co](https://accessassured.co)**
+📫 **web.duder@gmail.com**  ·  🌐 **[accessassured.co](https://accessassured.co)** 🌐 **[Tetrad Systems](https://tetrad.systems)**
